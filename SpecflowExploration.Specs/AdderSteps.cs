@@ -9,7 +9,7 @@ namespace SpecflowExploration.Specs
     public class AdderSteps
     {
         private readonly Adder _adder = new Adder();
-        private List<int> _operands = new List<int>();
+        private readonly List<int> _operands = new List<int>();
 
         [Given(@"I have entered (.*) into the calculator")]
         public void GivenIHaveEnteredIntoTheCalculator(int p0)

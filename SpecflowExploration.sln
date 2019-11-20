@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29505.145
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecflowExploration", "SpecflowExploration\SpecflowExploration.csproj", "{48A95945-6A80-4982-8D28-049AC4A68B36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpecflowExploration", "SpecflowExploration\SpecflowExploration.csproj", "{48A95945-6A80-4982-8D28-049AC4A68B36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecflowExploration.Specs", "SpecflowExploration.Specs\SpecflowExploration.Specs.csproj", "{08CF8138-CCA2-4484-BFFA-7587EF37F1AD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecflowExploration.Specs", "SpecflowExploration.Specs\SpecflowExploration.Specs.csproj", "{73DE2224-3F39-4B2E-8C5A-2C8728629C25}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{48A95945-6A80-4982-8D28-049AC4A68B36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48A95945-6A80-4982-8D28-049AC4A68B36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48A95945-6A80-4982-8D28-049AC4A68B36}.Release|Any CPU.Build.0 = Release|Any CPU
-		{08CF8138-CCA2-4484-BFFA-7587EF37F1AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{08CF8138-CCA2-4484-BFFA-7587EF37F1AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{08CF8138-CCA2-4484-BFFA-7587EF37F1AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{08CF8138-CCA2-4484-BFFA-7587EF37F1AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73DE2224-3F39-4B2E-8C5A-2C8728629C25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73DE2224-3F39-4B2E-8C5A-2C8728629C25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73DE2224-3F39-4B2E-8C5A-2C8728629C25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73DE2224-3F39-4B2E-8C5A-2C8728629C25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
